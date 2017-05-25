@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+body {
+  background-image: url(../img/dark-background.jpg);
+  background-size: cover;
+  text-align: center;
+  font-family:'Vidaloka';
+}
+
+h1, p {
+  color: lightcoral;
+}
+
+/*.container {
+  background-color: black;
+}*/
